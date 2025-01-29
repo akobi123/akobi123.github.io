@@ -40,8 +40,8 @@ layout: default
 
 1. **Room Card** - My room card, The key to my dorm, and the sole reason why I got the card holder on my phone. I've been locked out too many times to count.
 
-1. **NYU ID** - My NYU ID. It hold on campus identity, and (fake) money
+1. **NYU ID** - My NYU ID. It holds my on-campus identity, and (fake) money
 
 1. **Bag** - And last but certainly not least, my trusty bag, which holds most of these items everyday. It's the perfect size for my laptop and still has plenty of space to spare. Has a very convenient handles and a shoulder strap. _Which isn't helping my scoliosis at all._
 
-### [back](./)
+#### [back](./)
