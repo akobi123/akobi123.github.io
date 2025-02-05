@@ -16,14 +16,22 @@ layout: default
 
 ![Photo](./connections4.jpg)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections5.jpg)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections6.png)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections7.jpg)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections8.jpg)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections9.png)
+
+![Photo](./connections10.png)
+
+![Photo](./connections11.jpg)
+
+![Photo](./connections12.jpeg)
+
+![Photo](./connections13.jpg)
 
 #### [back](./)
