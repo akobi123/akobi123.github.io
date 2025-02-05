@@ -10,11 +10,11 @@ layout: default
 
 ![Photo](./connections1.png)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections2.jpg)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections3.jpg)
 
-![Photo](./whatsInMyBag.jpeg)
+![Photo](./connections4.jpg)
 
 ![Photo](./whatsInMyBag.jpeg)
 
