@@ -4,6 +4,9 @@ layout: default
 
 ## Recent Projects
 
+- ### [Manus et Machina Assignment 3 - Pessimists Archive](./manusAssignment3.html)
+
+
 - ### [Manus et Machina Assignment 2 - BBC connections](./manusAssignment2.html)
 
 - ### [Manus et Machina Assignment 1 - What's in my bag?](./manusAssignment1.html)
