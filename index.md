@@ -4,6 +4,8 @@ layout: default
 
 ## Recent Projects
 
+- ### [Manus et Machina Assignment 4 - "Golden" Ages](./manusAssignment4.html)
+
 - ### [Manus et Machina Assignment 3 - Pessimists Archive](./manusAssignment3.html)
 
 
