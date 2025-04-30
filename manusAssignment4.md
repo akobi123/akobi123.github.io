@@ -8,7 +8,7 @@ layout: default
 
 ## The Dark Ages
 
-![Photo](./golden1.jpg)
+![Photo](./golden1.JPG)
 
 ![Photo](./golden2.jpg)
 
